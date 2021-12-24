@@ -1,7 +1,4 @@
-<h2 align="center">Hi 👋, I'm Antonis</h2>
-
----
-
+<h1 align="center">Hi 👋, I'm Antonis</h1>
   
 <p align="center">
   🔭 <b>Software Engineer</b> & <b>Junior Researcher</b> at <b>ICCS-NTUA</b>
