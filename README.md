@@ -5,8 +5,8 @@
 - 🎓 I'm also working on my Computer Science **PhD** under Prof. D. Soudris at **ECE NTUA**
 
 <p align="left">
-<h3>Connect with me:</h3>
-<a href="https://linkedin.com/in/akarteris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akarteris" height="22" width="30" /></a>
+  <h3>Connect with me:</h3>
+  <a href="https://linkedin.com/in/akarteris" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akarteris" height="19" width="25" /></a>
 </p>
 
 <p align="center">
