@@ -7,7 +7,7 @@
   </p>
 
 <p align="center">
-  <a href="https://linkedin.com/akarteris" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="linkedin" /> </a>
+  <a href="https://linkedin.com/in/akarteris" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="linkedin" /> </a>
 </p>
 
 <p align="center">
