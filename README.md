@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uphilld&show_icons=true&locale=en&theme=tokyonight" alt="uphilld" />
+  <img src="https://github-readme-stats.vercel.app/api?username=uphilld&show_icons=true&locale=en&theme=tokyonight&hide=prs,issues,contribs&line_height=2&hide_title=true" alt="uphilld" />
 </p>
 
 
