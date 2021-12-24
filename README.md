@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Antonis</h1>
+<h3 align="center">A software engineer from 🇬🇷 Greece</h3>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uphilld&show_icons=true&locale=en&layout=compact" alt="uphilld" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uphilld&show_icons=true&locale=en" alt="uphilld" /></p>
+
+
+<!--### Hi there 👋-->
 
 <!--
 **UphillD/UphillD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
