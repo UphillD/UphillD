@@ -9,9 +9,10 @@
 <a href="https://linkedin.com/in/akarteris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akarteris" height="22" width="30" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uphilld&show_icons=true&locale=en&layout=compact" alt="uphilld" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=uphilld&show_icons=true&locale=en" alt="uphilld" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uphilld&show_icons=true&locale=en&layout=compact" alt="uphilld" />
+  <img src="https://github-readme-stats.vercel.app/api?username=uphilld&show_icons=true&locale=en" alt="uphilld" />
+</p>
 
 
 <!--### Hi there 👋-->
