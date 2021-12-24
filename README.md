@@ -7,7 +7,8 @@
   </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/akarteris" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="linkedin" /> </a>
+  <a href="https://linkedin.com/in/akarteris" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="linkedin" /> </a>
+  <a href="https://github.com/UphillD/UphillD/raw/main/CV_aKarteris.pdf" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Resume-brightgreen?style=flat&logo=googlekeep&logoColor=white" alt="resume" /> </a>
 </p>
 
 <p align="center">
