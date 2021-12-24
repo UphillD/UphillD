@@ -4,13 +4,13 @@
 - 🔭 I’m currently working on a **Cybersecurity IoT Project** at **ICCS-NTUA**
 - 🎓 I'm also working on my Computer Science **PhD** under Prof. D. Soudris at **ECE NTUA**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+<h3>Connect with me:</h3>
 <a href="https://linkedin.com/in/akarteris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akarteris" height="22" width="30" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uphilld&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight" alt="uphilld" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uphilld&show_icons=true&locale=en&layout=compact&langs_count=6&hide=javascript&theme=tokyonight&hide_title=true" alt="uphilld" />
 </p>
 
 
