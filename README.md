@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Antonis</h1>
+<h1 align="center">Antonis Karteris</h1>
 
 <p align="center">
   🔭 &nbsp; <b>Software Engineer</b> & <b>Junior Researcher</b> @ <a href="https://www.iccs.gr/en/?noredirect=en_US" target="_blank" rel="noreferrer"><b>ICCS-NTUA</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <br>
-  🎓 &nbsp; <b>PhD Candidate</b> under Prof. D. Soudris in <a href="https://microlab.ntua.gr/" target="_blank" rel="noreferrer"><b>Microlab</b></a> @ <a href="https://www.ece.ntua.gr/en" target="_blank" rel="noreferrer"><b>ECE</b></a> <a href="https://www.ntua.gr/en/" target="_blank" rel="noreferrer"><b>NTUA</b></a>
   <br>
   🛠️ &nbsp; Currently working on an <b>IoT Cybersecurity</b> project&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <br>
