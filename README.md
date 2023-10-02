@@ -1,11 +1,11 @@
 <h1 align="center">Antonis Karteris</h1>
 
 <p align="center">
-  🔭 &nbsp; <b>Software Engineer</b> & <b>Junior Researcher</b> @ <a href="https://www.iccs.gr/en/?noredirect=en_US" target="_blank" rel="noreferrer"><b>ICCS-NTUA</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  🔭 &nbsp; <b>Embedded Systems Engineer</b> @ <a href="https://www.ohb-hellas.gr/" target="_blank" rel="noreferrer"><b>OHB Hellas</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <br>
-  🛠️ &nbsp; Currently working on an <b>IoT Cybersecurity</b> project&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  🛠️ &nbsp; Currently clanking away on some <b>bare metal</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <br>
-  📝 &nbsp; Currently reading up on <b>multilingual text classification</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  📝 &nbsp; Currently reading up on <b>SNNs</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
