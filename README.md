@@ -1,11 +1,11 @@
-<h1 align="center">Antonis Karteris</h1>
+<h1 align="center">Antonis Karteris, MEng.</h1>
 
 <p align="center">
-  🔭 &nbsp; <b>Embedded Systems Engineer</b> @ <a href="https://www.ohb-hellas.gr/" target="_blank" rel="noreferrer"><b>OHB Hellas</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  🔭 &nbsp; <b>Embedded Systems Engineer</b> @ <a href="https://www.ohb-hellas.gr/" target="_blank" rel="noreferrer"><b>OHB Hellas</b></a>
   <br>
-  🛠️ &nbsp; Currently clanking away on some <b>bare metal</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  🛠️ &nbsp; Currently clanking away on some <b>bare metal</b>
   <br>
-  📝 &nbsp; Currently reading up on <b>SNNs</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  📝 &nbsp; Currently reading up on <b>SNNs</b>
 </p>
 
 <p align="center">
